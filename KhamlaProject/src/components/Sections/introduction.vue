@@ -2,6 +2,7 @@
     <div class="row aling-items-center">
         <div class="col-6">
             <img src="/images/oggy.png" width="400" height="400"/>
+            
         </div>
 
         <div class="col-6">
