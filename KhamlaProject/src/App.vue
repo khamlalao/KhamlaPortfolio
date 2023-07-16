@@ -1,18 +1,15 @@
 <template>
-  <div class="d-flex flex-column mb-3">
-  <div class="p-2">ສະບາຍດີ</div>
-  <div lang = "la" class="p-2">ສະບາຍດີ</div><br>
-  <div class="p-2"><span class="material-symbols-outlined">
-      grade
-    </span></div>
-</div>
-
+  <PortfolioContainer />
 </template>
  
-<script>
-export default {
+<script setup>
 
-}
+import PortfolioContainer from './components/PortfolioContainer.vue'
+
 </script>
+
+<style scoped>
+
+</style>
 
 
